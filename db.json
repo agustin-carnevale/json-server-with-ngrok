@@ -1,0 +1,14 @@
+{
+  "blogposts": [
+    {
+      "title": "#1 BLOG from API",
+      "content": "Mi contenidooo editado ",
+      "id": 1
+    },
+    {
+      "title": "#3 Third blog post",
+      "content": "Hello World editado!!!",
+      "id": 3
+    }
+  ]
+}
